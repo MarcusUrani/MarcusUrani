@@ -15,5 +15,14 @@
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src='https://random-memer.herokuapp.com/' title="Meme" heigth="300" width="300" alt="Please refresh the page if the meme doesn't show up.">
 </div>
+ <p  align="right">
+  <img width="250" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e475extmrgs2pgu2q5os8fba4enw5afgf8w9yblpyaq&rid=giphy.gif&ct=g">
+ </p>
+ 
+ ##
+ 
+<div> 
+  <a href="https://instagram.com/marcusvgu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcus.urani20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
