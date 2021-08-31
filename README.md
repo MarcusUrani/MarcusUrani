@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Estou atualmente aprendendo Front-end.
+- 🌱 Estou atualmente estudando para ser um dev Front-end.
 - 📫 Contate-me pelo email: marcus.urani20@gmail.com
 - 😄 Pronouns: ele/dele
 
