@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- 🌱 Estou atualmente estudando para ser um dev FrontEnd.
-- 📫 Contate-me pelo email: marcus.urani20@gmail.com
+- 🌱 I'm actually studying to be a fullstack developer.
+- 📫 Contact me: marcus.urani20@gmail.com
 - 😄 Pronouns: ele/dele
 
 ###
