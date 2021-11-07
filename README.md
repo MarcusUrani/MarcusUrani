@@ -15,6 +15,8 @@
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
 </div>
  <p  align="right">
   <img width="250" src="https://media3.giphy.com/media/BWD3CtcudWL28/giphy.gif?cid=ecf05e475extmrgs2pgu2q5os8fba4enw5afgf8w9yblpyaq&rid=giphy.gif&ct=g">
