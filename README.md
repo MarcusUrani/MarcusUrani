@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 I'm actually studying to be a fullstack developer.
+- 🌱 I'm actually studying to be a frontend developer.
 - 📫 Contact me: marcus.urani20@gmail.com
 - 😄 Pronouns: ele/dele
 
