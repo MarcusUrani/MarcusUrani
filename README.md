@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 I'm actually a front-end developer.
+- 🌱 I'm a front-end developer.
 - 📫 Contact me: marcus.urani20@gmail.com
 - 😄 Pronouns: ele/dele
 
